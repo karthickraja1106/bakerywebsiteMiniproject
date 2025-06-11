@@ -461,6 +461,7 @@ body{
               display: block;
               margin: 12px auto 0 auto;
        }
+      
 
 }
 
@@ -560,7 +561,8 @@ body{
 
        .newsletter_right .newsletter_content p {
               font-size: 12px;
-              width: 100%;
+              width: 75%;
               text-align: center;
        }
+
 }

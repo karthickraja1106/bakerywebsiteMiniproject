@@ -1239,7 +1239,10 @@ nav ul li:hover .dropdown {
        }
 
        .slider_wrapper .slider_item {
-              height: 45vh;
+              height: 40vh;
+       }
+       .pagination_dot{
+              display: none;
        }
 
        .slider_wrapper .slider_item .slider_content h1 {
